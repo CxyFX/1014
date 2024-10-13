@@ -1,2 +1,1 @@
-int mian()
-{printf("China\n")}
+aaaaa
